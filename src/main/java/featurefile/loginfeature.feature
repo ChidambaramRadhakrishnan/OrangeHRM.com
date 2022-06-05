@@ -1,5 +1,5 @@
 Feature: Login OrangeHRM Application
-  
+  @login
   Scenario Outline: Login the OrangeHRM application
     Given I Open the browser
     When I use the application URL
