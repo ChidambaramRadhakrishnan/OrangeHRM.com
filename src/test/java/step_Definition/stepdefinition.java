@@ -24,7 +24,7 @@ public class stepdefinition extends base_Class{
 
 	@Then("I verify the Title of the Application")
 	public void i_verify_the_title_of_the_application() {
-	   System.out.println("Title verfied");
+	   System.out.println("Title verified");
 	}
 
 	@Then("I enter Username {string}")
@@ -44,7 +44,7 @@ public class stepdefinition extends base_Class{
 
 	@Then("I validate Page Navigation")
 	public void i_validate_page_navigation() {
-	    System.out.println("page validaeted.");
+	    System.out.println("page validated");
 	}
 
 }
